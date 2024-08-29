@@ -1,0 +1,15 @@
+[
+	"Project Number", 
+    "Project Name", 
+    "Room Type",
+	"Make",
+    "Model",
+	"Serial",
+	"NicOne",
+	"NicTwo",
+	"Ip",
+	"HostName",
+	"UserName",
+	"Password",
+	"Firmware"
+]
